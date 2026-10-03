@@ -40,9 +40,11 @@ The dashboards were designed to help explore operational performance, identify p
 👨🏽‍✈️ Driver Performance Dashboard
 
 ![Driver Performance Dashboard](./Capstone%202.png)
+
 💰 Customer Profitability Dashboard
 
 ![Customer Profitability Dashboard](./Capstone%203.png)
+
 ⏱️ On-Time Delivery Dashboard
 
 ![On-Time Delivery Dashboard](./Capstone%204.png)
