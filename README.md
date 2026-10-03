@@ -33,13 +33,36 @@ The dashboards were designed to help explore operational performance, identify p
 
 📷 Dashboard Previews
 
-🚚 ![Fleet Health Dashboard](./Capstone%201.png)
 
-👨🏽‍✈️ ![Driver Performance Dashboard](./Capstone%202.png)
 
-💰 ![Customer Profitability Dashboard](./Capstone%203.png)
 
-⏱️ ![On-Time Delivery Dashboard](./Capstone%204.png)
+🚚 ![Dashboard Page 1](capstone%201.png)
+
+
+
+
+
+👨🏽‍✈️ ![Dashboard Page 2](capstone%202.png)
+
+
+
+
+
+💰![Dashboard Page 3](capstone%203.png)
+
+
+
+
+
+⏱️![Dashboard Page 4](capstone%204.png)
+
+
+
+
+
+
+
+
 
 👩🏽‍💻 Skills Demonstrated
 
